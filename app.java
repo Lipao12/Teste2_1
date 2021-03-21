@@ -61,8 +61,6 @@ public class MainActivity extends AppCompatActivity {
 
         //PERGUNTAS E RESPOSTAS
         inicializarPerguntas();
-
-        System.out.println("Ola Mundo");
         
         for (x=0;x<perguntas.size()-1;x++)
         {
